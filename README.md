@@ -3,7 +3,7 @@ HoverGroup - mouseenter for multiple elements
 
 Keeps track of when the mouse enters and exits a group of elements, allowing for time for the mouse to pass between them (think dropdown menus).
 
-![Screenshot](http://www.clientcide.com/art/forge/hovergroup.png)
+![Screenshot](http://github.com/anutron/clientcide-hovergroup/blob/master/screenshot.png)
 
 How to use
 ----------
