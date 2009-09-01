@@ -10,8 +10,8 @@ How to use
 
 ### Requires
 
-* [MooTools Core](http://mootools.net/core): Class.Extras, Element.Event (and their dependencies)
-* [MooTools More](http://mootools.net/more): Class.Binds (and its dependences)
+* [MooTools Core 1.2.3](http://mootools.net/core): Class.Extras, Element.Event (and their dependencies)
+* [MooTools More 1.2.3.1](http://mootools.net/more): Class.Binds (and its dependences)
 
 ### Syntax
 
