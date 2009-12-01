@@ -5,6 +5,3 @@ category:       Utilities
 tags:           [mouseover, menu, group]
 docs:           http://clientcide.com/docs/Layout/HoverGroup
 demo:           http://www.clientcide.com/wiki/cnet-libraries/08-layout/0.2-hovergroup
-# requires:
-#   - { package: 'some-plugin', version: '0.1' }
-#   - { package: 'http://external-plugin.com' }	
