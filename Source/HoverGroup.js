@@ -1,20 +1,17 @@
 /*
 ---
-
 scirpt: HoverGroup
-
+author: Aaron Newton
 description: Manages mousing in and out of multiple objects (think drop-down menus).
-
 license: MIT-Style License
-
 requires:
-- core:1.2.4/Class.Extras
-- core:1.2.4/Element.Event
-- more:1.2.4.2/Class.Binds
-
+ core/1.2.4:
+  - Class.Extras
+  - Element.Event
+ more/1.2.4.2:
+  - Class.Binds
 provides:
-- HoverGroup
-
+ - HoverGroup
 ...
 */
 
