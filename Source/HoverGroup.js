@@ -1,7 +1,7 @@
 /*
 ---
 scirpt: HoverGroup
-author: Aaron Newton
+authors: Aaron Newton
 description: Manages mousing in and out of multiple objects (think drop-down menus).
 license: MIT-Style License
 requires:
